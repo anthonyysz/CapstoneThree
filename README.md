@@ -8,3 +8,6 @@
 
 ## 3. Modeling
 &nbsp;&nbsp;&nbsp;&nbsp; When modeling, I wanted to try a few different modeling methods to see which one I liked the best. I decided to use an ARIMA model, a Linear Regression model, a Support Vector Regression model, and an XGBoost Regressor. With the creation of all 4 models for each of the 2 datasets, I was able to determine that the ARIMA model would be best suited for making predictions on both datasets. However, I was interested in seeing how the XGBoost Regressor would perform on the GDP per capita data, so I decided that I would test that model out for my forecasting step. 
+
+## 4. Model Analysis
+&nbsp;&nbsp;&nbsp;&nbsp; I felt very comfortable using ARIMA models for this data since the raw data was already very linear. I would like to try some type of autoregressive model out on some more complex data to see how it fairs sometime in the future. I also felt very confident in my ability to create multiple different models for forecasting and I feel that I now have a larger repertoire in forecasting circumstances.
